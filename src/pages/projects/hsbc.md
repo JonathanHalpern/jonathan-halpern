@@ -52,7 +52,6 @@ Provided additional support to team as Scrum Master
 Additionally, built a promotional mini games using Pixi in just three weeks, including multiple designed levels, particle effects, collision detection
 
 
-
 Working Capital Analytics:
 
 Angular/Ionic hybrid analytics and sales App
