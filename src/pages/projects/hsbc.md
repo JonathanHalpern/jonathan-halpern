@@ -21,9 +21,7 @@ skills:
   - ESlint
   - Jest
 ---
-Worked on a variety of Agile projects and had contract renewed several times. Initial projects were in Angular 1. Helped lead a technology switch to React.
-
-
+Worked on a variety of Agile projects and had contract renewed several times. Initial projects were in Angular 1. Helped lead a technology switch to React.  
 
 MyDeal Admin:
 
@@ -32,8 +30,6 @@ Used React Redux to build the front end for an admin site to manage deals
 Worked closely with back end team to instruct them on best ways to set up their APIs
 
 Was highly praised by senior management for the speed and quality of the work
-
-
 
 Meet the Experts:
 
@@ -50,7 +46,6 @@ Wrote algorithm to determine which search results to display
 Provided additional support to team as Scrum Master
 
 Additionally, built a promotional mini games using Pixi in just three weeks, including multiple designed levels, particle effects, collision detection
-
 
 Working Capital Analytics:
 
