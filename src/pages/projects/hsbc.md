@@ -1,8 +1,7 @@
 ---
 templateKey: project
-path: /projects/hsbc
-institution: HSBC Contractor
 title: Senior Developer
+institution: HSBC Contractor
 startDate: 2016-07
 endDate: 2018-01
 skills:
@@ -22,9 +21,46 @@ skills:
   - ESlint
   - Jest
 ---
+Worked on a variety of Agile projects and had contract renewed several times. Initial projects were in Angular 1. Helped lead a technology switch to React.
 
-Built React app used to track client deals. Worked closely with back end team to instruct them on best ways to set up their APIs.
-Developed LinkedIn style tool using React, was also designated Scrum Master and managed Jira. Created mini game to promote product.
-Used advanced React Redux techniques such as Higher Order Components, Selectors, Normalised State, Flow and Styled Components to create template for new projects.
-Developed hybrid app used by HSBC to sell additional products and services to their clients. Built interactive visual data displays using D3 and Angular that demonstrated the benefits of using HSBC’s programmes.
-Managed offshore development team, conducted code reviews and fostered best practise.
+
+
+MyDeal Admin:
+
+Used React Redux to build the front end for an admin site to manage deals
+
+Worked closely with back end team to instruct them on best ways to set up their APIs
+
+Was highly praised by senior management for the speed and quality of the work
+
+
+
+Meet the Experts:
+
+Pioneered a move to React away from Angular
+
+Used React Redux to build a LinkedIn style tool
+
+Ran demos to demonstrate progress to senior management
+
+Used advanced React Redux techniques such as Higher Order Components, Selectors, Normalised State, Flow and Styled Components
+
+Wrote algorithm to determine which search results to display
+
+Provided additional support to team as Scrum Master
+
+Additionally, built a promotional mini games using Pixi in just three weeks, including multiple designed levels, particle effects, collision detection
+
+
+
+Working Capital Analytics:
+
+Angular/Ionic hybrid analytics and sales App
+
+Used D3 to make data interactive charts and visualisations
+
+Performed Business Analysis to improve the product
+
+Worked with global team, managing junior members in India
+
+Ran weekly Dev meetings to share best practice and discuss issues
