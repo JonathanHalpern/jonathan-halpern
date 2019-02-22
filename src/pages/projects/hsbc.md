@@ -20,7 +20,6 @@ skills:
   - Styled Components
   - ESlint
   - Jest
-  - ''
 ---
 Worked on a variety of Agile projects and had contract renewed several times. Initial projects were in Angular 1. Helped lead a technology switch to React.  
 
