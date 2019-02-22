@@ -20,6 +20,7 @@ skills:
   - Styled Components
   - ESlint
   - Jest
+  - ''
 ---
 Worked on a variety of Agile projects and had contract renewed several times. Initial projects were in Angular 1. Helped lead a technology switch to React.  
 
@@ -35,6 +36,7 @@ Worked on a variety of Agile projects and had contract renewed several times. In
 * Used React Redux to build a LinkedIn style tool.
 * Ran demos to demonstrate progress to senior management.
 * Used advanced React Redux techniques such as Higher Order Components, Selectors, Normalised State, Flow and Styled Components.
+* Wrote Jest tests for components.
 * Wrote algorithm to determine which search results to display.
 * Provided additional support to team as Scrum Master.
 * Additionally, built a promotional mini games using Pixi in just three weeks, including multiple designed levels, particle effects, collision detection.
