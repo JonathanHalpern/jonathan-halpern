@@ -25,24 +25,24 @@ Worked on a variety of Agile projects and had contract renewed several times. In
 
 **MyDeal Admin:**
 
-* Used React Redux to build the front end for an admin site to manage deals
-* Worked closely with back end team to instruct them on best ways to set up their APIs
-* Was highly praised by senior management for the speed and quality of the work
+* Used React Redux to build the front end for an admin site to manage deals.
+* Worked closely with back end team to instruct them on best ways to set up their APIs.
+* Was highly praised by senior management for the speed and quality of the work.
 
 **Meet the Experts:**
 
-* Pioneered a move to React away from Angular
-* Used React Redux to build a LinkedIn style tool
-* Ran demos to demonstrate progress to senior management
-* Used advanced React Redux techniques such as Higher Order Components, Selectors, Normalised State, Flow and Styled Components
-* Wrote algorithm to determine which search results to display
-* Provided additional support to team as Scrum Master
-* Additionally, built a promotional mini games using Pixi in just three weeks, including multiple designed levels, particle effects, collision detection
+* Pioneered a move to React away from Angular.
+* Used React Redux to build a LinkedIn style tool.
+* Ran demos to demonstrate progress to senior management.
+* Used advanced React Redux techniques such as Higher Order Components, Selectors, Normalised State, Flow and Styled Components.
+* Wrote algorithm to determine which search results to display.
+* Provided additional support to team as Scrum Master.
+* Additionally, built a promotional mini games using Pixi in just three weeks, including multiple designed levels, particle effects, collision detection.
 
 **Working Capital Analytics:**
 
-1. Angular/Ionic hybrid analytics and sales App
-2. Used D3 to make data interactive charts and visualisations
-3. Performed Business Analysis to improve the product
-4. Worked with global team, managing junior members in India
-5. Ran weekly Dev meetings to share best practice and discuss issues
+1. Angular/Ionic hybrid analytics and sales App.
+2. Used D3 to make data interactive charts and visualisations.
+3. Performed Business Analysis to improve the product.
+4. Worked with global team, managing junior members in India.
+5. Ran weekly Dev meetings to share best practice and discuss issues.
