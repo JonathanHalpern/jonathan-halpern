@@ -40,9 +40,11 @@ const Project: FC<Props> = ({ data }) => (
       dateFormat="MMM YYYY"
     />
     {data.frontmatter.skills &&
-      data.frontmatter.skills.map((skill: string) => (
-        <SkillChip key={skill} label={skill} color="primary" />
-      ))}
+      data.frontmatter.skills
+        .sort((a, b) => (a > b ? 1 : -1))
+        .map((skill: string) => (
+          <SkillChip key={skill} label={skill} color="primary" />
+        ))}
     <Content content={data.html} />
   </div>
 )
