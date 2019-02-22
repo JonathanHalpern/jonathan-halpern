@@ -30,7 +30,7 @@ const IconLink: FC<Props> = ({
   <Link
     href={href}
     className={className ? className : ''}
-    target="_blank"
+    target={href ? '_blank' : ''}
     color={theme.palette.primary.main}
   >
     <FontAwesome name={iconName} fixedWidth />: <span>{text}</span>
