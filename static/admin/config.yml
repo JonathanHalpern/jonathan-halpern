@@ -44,6 +44,7 @@ collections:
       - label: 'End Date'
         name: 'endDate'
         widget: 'datetime'
+        required: false
       - label: 'Skills'
         name: 'skills'
         widget: 'list'
@@ -72,6 +73,7 @@ collections:
       - label: 'End Date'
         name: 'endDate'
         widget: 'datetime'
+        required: false
       - label: 'Skills'
         name: 'skills'
         widget: 'list'
@@ -95,10 +97,10 @@ collections:
         name: 'startDate'
         widget: 'datetime'
         required: false
-        default: undefined
+        default: ''
       - label: 'End Date (leave blank if ongoing)'
         name: 'endDate'
         widget: 'datetime'
         required: false
-        default: undefined
+        default: ''
       - { label: 'Body', name: 'body', widget: 'markdown' }
