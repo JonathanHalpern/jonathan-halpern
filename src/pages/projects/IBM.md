@@ -35,6 +35,6 @@ Worked for the iX Studio on numerous mini projects:
 
 Additional training taken:
 
-* Mobile app deployment.
-* Certified Scrum Master.
-* Design Thinking.
+* Mobile app deployment
+* Certified Scrum Master
+* Design Thinking
