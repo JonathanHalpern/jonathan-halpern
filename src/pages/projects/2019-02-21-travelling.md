@@ -19,5 +19,5 @@ Completed various freelance projects while away:
 * Fully designed and built a travel blog which I ran with my wife
 * Built a site for booking a music studio with Firebase and Paypal integration
 * Consulted for a gym to improve their website
-* Worked Pro Bono for two charities to update their websites
+* Worked pro bono for two charities to update their websites
 * Kept up to speed by completing regular coding exercise and reading articles
