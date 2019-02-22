@@ -30,3 +30,9 @@ Worked for the iX Studio on numerous mini projects
 * Worked on a hybrid Ionic app with a Java backend for another major bank, to demonstrate how a user could authenticate over a device with their camera.
 * Used HTML, CSS and Javascript to build mircrosites that were used to win bids.
 * Tested and deployed numerous hybrid apps to an internal IBM app store.
+
+**Additional training taken:**
+
+* Mobile app deployment
+* Certified Scrum Master
+* Design Thinking
