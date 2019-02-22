@@ -8,7 +8,7 @@ type Props = {
 }
 
 const ScrollButton: FC<Props> = ({ text, href }) => (
-  <Button key={href} color="primary">
+  <Button key={href} color="primary" aria-label={`scroll to ${text}`}>
     <Link
       activeClass="active"
       to={href}
