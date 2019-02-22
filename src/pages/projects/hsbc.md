@@ -21,7 +21,7 @@ skills:
   - ESlint
   - Jest
 ---
-Worked on a variety of Agile projects and had contract renewed several times. Initial projects were in Angular 1. Helped lead a technology switch to React.  
+Worked on a variety of Agile projects and had contract renewed several times. Initial projects were in Angular 1. Joint-led a technology switch to React.  
 
 **MyDeal Admin:**
 
@@ -34,17 +34,17 @@ Worked on a variety of Agile projects and had contract renewed several times. In
 * Pioneered a move to React away from Angular.
 * Used React Redux to build a LinkedIn style tool.
 * Ran demos to demonstrate progress to senior management.
-* Wrote algorithm to determine which search results to display.
+* Wrote an algorithm to determine which search results to display.
 * Used advanced React Redux techniques such as Higher Order Components, Selectors, Normalised State, Flow and Styled Components.
 * Wrote Jest tests for components.
-* Performed accessibility audit and ensured all components followed strict guidelines.
+* Performed an accessibility audit and ensured all components followed strict guidelines.
 * Provided additional support to team as Scrum Master.
-* Additionally, built a promotional mini games using Pixi in just three weeks, including multiple designed levels, particle effects, collision detection.
+* Additionally, built a promotional mini game using Pixi. Entire project was carried out in only three weeks, including multiple designed levels, particle effects and collision detection.
 
 **Working Capital Analytics:**
 
-1. Angular/Ionic hybrid analytics and sales App.
-2. Used D3 to make data interactive charts and visualisations.
-3. Performed Business Analysis to improve the product.
-4. Worked with global team, managing junior members in India.
-5. Ran weekly Dev meetings to share best practice and discuss issues.
+* Developed hybrid analytics and sales App using Angular and Ionic.
+* Used D3 to make data interactive charts and visualisations.
+* Performed Business Analysis to improve the product.
+* Worked with global team, managing junior members in India.
+* Ran weekly Dev meetings to share best practice and discuss issues.
