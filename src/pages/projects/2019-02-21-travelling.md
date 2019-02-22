@@ -18,5 +18,5 @@ Spent a year travelling Asia, completing various projects along the way:
 * Built a site for booking a music studio with Firebase and Paypal integration.
 * Consulted for a gym to improve their website.
 * Worked pro bono for two charities to update their websites.
-* Kept up to speed by completing regular coding exercises and reading articles.
+* Kept up to speed by completing regular coding exercises.
 * Learnt Spanish to a basic level.
