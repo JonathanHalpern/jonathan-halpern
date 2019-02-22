@@ -23,6 +23,11 @@ export default class HTML extends React.Component {
         </head>
         <body {...this.props.bodyAttributes}>
           {this.props.preBodyComponents}
+          <noscript>
+            This website requires JavaScript. To contact us, please send us an
+            email at:{' '}
+            <a href="mailto:jonnyhalpern@gmail.com">jonnyhalpern@gmail.com</a>
+          </noscript>
           <div
             key={`body`}
             id="___gatsby"
