@@ -35,9 +35,10 @@ Worked on a variety of Agile projects and had contract renewed several times. In
 * Pioneered a move to React away from Angular.
 * Used React Redux to build a LinkedIn style tool.
 * Ran demos to demonstrate progress to senior management.
+* Wrote algorithm to determine which search results to display.
 * Used advanced React Redux techniques such as Higher Order Components, Selectors, Normalised State, Flow and Styled Components.
 * Wrote Jest tests for components.
-* Wrote algorithm to determine which search results to display.
+* Performed accessibility audit and ensured all components followed strict guidelines.
 * Provided additional support to team as Scrum Master.
 * Additionally, built a promotional mini games using Pixi in just three weeks, including multiple designed levels, particle effects, collision detection.
 
