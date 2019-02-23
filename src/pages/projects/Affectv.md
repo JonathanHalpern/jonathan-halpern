@@ -16,13 +16,16 @@ skills:
   - Gulp
   - Scrum
   - Code Reviews
+  - AWS
+  - Node
 ---
 Angular Typescript internal application for Digital Advertising Startup, used to create dynamic banner adverts
 
-* Worked in a small Scrum team as part of a start up with 25 employees. Conducted code reviews and ensured all team members were following the same best practice.
-* Most of the developer team had recently quit and the company was left with a poor understanding of its code. Investigated and documented what functions were being performed and performed refactors.
+* Worked in a small Scrum team as part of a start up with 25 employees.
+* Conducted code reviews and ensured all team members were following the same best practice.
+* Investigated and documented what functions were being performed within the code base. This was paramount to the survival of the start up as most of the development team had recently quit, leaving the company with a poor understanding of its code.
 * Performed regular maintenance on existing code to fix bugs and improve performance.
+* Refactored legacy code to increase readability and reusability.
 * Ran sessions with sales team to formulate new ideas for features to improve the application.
-* After hearing about the issues employees were facing, independently devised new tools to assist them.
-* Used AWS to host code.
-* Made updates to Python, Java and Node backend.
+* Independently devised new tools to assist employees who were struggling to perform their tasks.
+* Made updates to Python and Node backend.
