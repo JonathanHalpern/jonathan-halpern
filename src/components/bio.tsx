@@ -7,7 +7,7 @@ import Title from './title'
 import Navigation from '../containers/navigation'
 
 const StyledImg = styled(Img)`
-  width: 200px;
+  width: 160px;
   border-radius: 50%;
   margin: 0px auto 15px;
 `
@@ -33,7 +33,6 @@ const Bio: FC<Props> = ({ data, image }) => (
     <Divider />
     <p>{data.frontmatter.title}</p>
     <Content content={data.html} />
-
     <Navigation />
   </div>
 )

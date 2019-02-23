@@ -31,7 +31,8 @@ const Layout: FC = ({ children }) => (
         a {
           text-decoration: none;
         }
-        p {
+        p,
+        li {
           color: #444;
         }
       `}
