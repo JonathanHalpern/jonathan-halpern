@@ -26,12 +26,6 @@ type Props = {
 const Contact: FC<Props> = ({ data }) => (
   <div>
     <StyledIconLink
-      component={
-        <Moment format="DD/MM/YYYY">{data.frontmatter.dateOfBirth}</Moment>
-      }
-      iconName="birthday-cake"
-    />
-    <StyledIconLink
       href={`mailto:${data.frontmatter.email}`}
       iconName="envelope"
       text={data.frontmatter.email}
@@ -42,6 +36,12 @@ const Contact: FC<Props> = ({ data }) => (
       href={data.frontmatter.linkedIn}
       iconName="linkedin"
       text={data.frontmatter.linkedIn}
+    />
+    <StyledIconLink
+      component={
+        <Moment format="DD/MM/YYYY">{data.frontmatter.dateOfBirth}</Moment>
+      }
+      iconName="birthday-cake"
     />
   </div>
 )

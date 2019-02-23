@@ -25,7 +25,8 @@ export default class HTML extends React.Component {
           {this.props.preBodyComponents}
           <noscript>
             This website requires JavaScript. To contact us, please send us an
-            email at: <a href="mailto:email@example.com">email@example.com</a>
+            email at:{' '}
+            <a href="mailto:jonnyhalpern@gmail.com">jonnyhalpern@gmail.com</a>
           </noscript>
           <div
             key={`body`}
