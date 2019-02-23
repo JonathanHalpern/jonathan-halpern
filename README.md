@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+    <img alt="JH" src="https://www.jonathanhalpern.com/favicons/android-chrome-192x192.png" width="60" />
   </a>
 </p>
 <h1 align="center">
@@ -42,12 +42,18 @@ Site is built with JAM stack architecture using Gatsby and Netlify
 
 1.  **Add git remote**
      ```
-    git remote add origin remote repository URL
+    git remote add origin [repo-url]
     ```
 
 1.  **Create a netlify account**
     ([netlify](https://app.netlify.com))
     connect it to your git
+    go to the Identity tab to 'enable identity'
+    
+1.  **Create a netlify account**
+    ([netlify](https://app.netlify.com))
+    connect it to your git
+    go to the Identity tab to 'enable identity'
     
     
 ## 🧐 What's inside?
