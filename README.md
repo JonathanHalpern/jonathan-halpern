@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.gatsbyjs.org">
-    <img alt="JH" src="https://www.jonathanhalpern.com/favicons/android-chrome-192x192.png" width="60" />
+    <img alt="JH" src="https://www.jonathanhalpern.com/favicons/android-chrome-192x192.png" width="96" />
   </a>
 </p>
 <h1 align="center">
