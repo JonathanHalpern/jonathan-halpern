@@ -12,8 +12,6 @@ const StyledIconLink = styled(IconLink)`
 export type ContactProps = {
   frontmatter: {
     email: string
-    mobile: string
-    address: string
     dateOfBirth: string
     linkedIn: string
   }
@@ -30,8 +28,6 @@ const Contact: FC<Props> = ({ data }) => (
       iconName="envelope"
       text={data.frontmatter.email}
     />
-    <StyledIconLink iconName="phone" text={data.frontmatter.mobile} />
-    <StyledIconLink iconName="home" text={data.frontmatter.address} />
     <StyledIconLink
       href={data.frontmatter.linkedIn}
       iconName="linkedin"

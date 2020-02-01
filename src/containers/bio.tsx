@@ -23,8 +23,6 @@ const projectsQuery = graphql`
         title
         dateOfBirth
         email
-        mobile
-        address
         nationality
         gender
       }

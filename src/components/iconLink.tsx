@@ -38,4 +38,4 @@ const IconLink: FC<Props> = ({
   </Link>
 )
 
-export default withTheme()(IconLink)
+export default withTheme(IconLink)

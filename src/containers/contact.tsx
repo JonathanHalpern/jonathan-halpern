@@ -23,8 +23,6 @@ const contactsQuery = graphql`
         title
         dateOfBirth
         email
-        mobile
-        address
         nationality
         gender
         linkedIn
