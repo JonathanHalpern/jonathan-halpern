@@ -1,7 +1,7 @@
 import React, { FC } from 'react'
 import { StaticQuery, graphql } from 'gatsby'
 import styled from '@emotion/styled'
-import { Global, css } from '@emotion/core'
+import { Global, css } from '@emotion/react'
 
 import Header from '../components/header'
 import Background from '../components/background'
