@@ -1,7 +1,7 @@
 ---
 templateKey: project
 title: Senior Developer
-institution: HSBC Contractor
+institution: HSBC
 startDate: 2016-07
 endDate: 2018-01
 skills:
