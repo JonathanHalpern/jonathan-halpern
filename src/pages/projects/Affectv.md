@@ -1,7 +1,7 @@
 ---
 templateKey: project
 title: Full Stack Developer
-institution: Affectv
+institution: Hybrid Theory
 startDate: 2016-03
 endDate: 2016-07
 skills:
